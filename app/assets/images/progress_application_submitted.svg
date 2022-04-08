@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="984px" height="108px" viewBox="0 0 984 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bails Progress bar listing - pre listing</title>
+    <g id="Bails-Progress-bar-listing---pre-listing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="Application-submitte" font-family="GDSTransportWebsite-Light, GDS Transport Website" font-size="14" font-weight="300" fill="#000000">
+            <tspan x="90" y="64">Application </tspan>
+            <tspan x="90" y="83">submitted</tspan>
+        </text>
+        <text id="Application-started" font-family="GDSTransportWebsite-Light, GDS Transport Website" font-size="14" font-weight="300" fill="#000000">
+            <tspan x="1" y="64">Application </tspan>
+            <tspan x="1" y="83">started</tspan>
+        </text>
+        <text id="Listing" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="181" y="64">Listing</tspan>
+        </text>
+        <line x1="30" y1="18.5" x2="480" y2="18" id="Line-4-Copy" stroke="#008242" stroke-width="4" stroke-linecap="square" fill-rule="nonzero"></line>
+        <circle id="Oval-Copy-2" stroke="#008242" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" cx="106.5" cy="19.5" r="16.5"></circle>
+        <circle id="Oval-Copy-3" stroke="#008242" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" cx="196.5" cy="18.5" r="16.5"></circle>
+        <text id="Bail-summary" font-family="GDSTransportWebsite-Light, GDS Transport Website" font-size="14" font-weight="300" fill="#000000">
+            <tspan x="271" y="64">Bail </tspan>
+            <tspan x="271" y="83">summary</tspan>
+        </text>
+        <text id="Hearing" font-family="GDSTransportWebsite-Light, GDS Transport Website" font-size="14" font-weight="300" fill="#000000">
+            <tspan x="361" y="64">Hearing</tspan>
+        </text>
+        <text id="Decided" font-family="GDSTransportWebsite-Light, GDS Transport Website" font-size="14" font-weight="300" fill="#000000">
+            <tspan x="450" y="64">Decided</tspan>
+        </text>
+        <polyline id="Path-4-Copy" stroke="#FFFFFF" stroke-width="4" fill-rule="nonzero" points="368 19.0452186 373.435752 23.7578125 385.199219 13"></polyline>
+        <circle id="Oval-Copy-5" stroke="#008242" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" cx="376.5" cy="18.5" r="16.5"></circle>
+        <circle id="Oval-Copy-5" stroke="#008242" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" cx="466.5" cy="18.5" r="16.5"></circle>
+        <circle id="Oval-Copy-11" stroke="#008242" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" cx="286.5" cy="18.5" r="16.5"></circle>
+        <circle id="Oval-Copy-2" fill="#008242" fill-rule="nonzero" cx="16.5" cy="18.5" r="16.5"></circle>
+        <polyline id="Path-4-Copy" stroke="#FFFFFF" stroke-width="4" fill-rule="nonzero" points="368 19.0452186 373.435752 23.7578125 385.199219 13"></polyline>
+        <circle id="Oval-Copy-2" fill="#008242" fill-rule="nonzero" cx="106.5" cy="19.5" r="16.5"></circle>
+        <polyline id="Path-4-Copy" stroke="#FFFFFF" stroke-width="4" fill-rule="nonzero" points="99 20.0452186 104.435752 24.7578125 116.199219 14"></polyline>
+        <circle id="Oval-Copy-2" fill="#008242" fill-rule="nonzero" cx="196.5" cy="19.5" r="16.5"></circle>
+        <polyline id="Path-4-Copy" stroke="#FFFFFF" stroke-width="4" fill-rule="nonzero" points="8 20.0452186 13.4357524 24.7578125 25.1992188 14"></polyline>
+    </g>
+</svg>
