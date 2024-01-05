@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 984 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;">
+    <g id="_4-Bails-Progress-bar---bail-summary-uploaded" serif:id="4-Bails-Progress-bar---bail-summary-uploaded">
+        <g id="Application-submitte">
+            <g transform="matrix(1,0,0,1,90,64)">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite', 'GDS Transport Website';font-weight:300;font-size:14px;">Application</text>
+            </g>
+            <g transform="matrix(1,0,0,1,90,83)">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite', 'GDS Transport Website';font-weight:300;font-size:14px;">submitted</text>
+            </g>
+        </g>
+        <g id="Application-started">
+            <g transform="matrix(1,0,0,1,1,64)">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite', 'GDS Transport Website';font-weight:300;font-size:14px;">Application</text>
+            </g>
+            <g transform="matrix(1,0,0,1,1,83)">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite', 'GDS Transport Website';font-weight:300;font-size:14px;">started</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,181,64)">
+            <g id="Listing">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite', 'GDS Transport Website';font-weight:300;font-size:14px;">Listing</text>
+            </g>
+        </g>
+        <path id="Line-4-Copy" d="M30,18.5L480,18" style="fill:none;fill-rule:nonzero;stroke:rgb(0,130,66);stroke-width:4px;"/>
+        <circle id="Oval-Copy-2" cx="106.5" cy="19.5" r="16.5" style="fill:white;stroke:rgb(0,130,66);stroke-width:3px;stroke-linecap:butt;"/>
+        <circle id="Oval-Copy-3" cx="196.5" cy="18.5" r="16.5" style="fill:white;stroke:rgb(0,130,66);stroke-width:3px;stroke-linecap:butt;"/>
+        <g id="Bail-summary">
+            <g transform="matrix(1,0,0,1,271,64)">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite-Bold', 'GDS Transport Website';font-weight:700;font-size:14px;">Bail</text>
+            </g>
+            <g transform="matrix(1,0,0,1,271,83)">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite-Bold', 'GDS Transport Website';font-weight:700;font-size:14px;">summary</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,361,64)">
+            <g id="Hearing">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite', 'GDS Transport Website';font-weight:300;font-size:14px;">H<tspan x="10.104px " y="0px ">e</tspan>aring</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,450,64)">
+            <g id="Decided">
+                <text x="0px" y="0px" style="font-family:'GDSTransportWebsite', 'GDS Transport Website';font-weight:300;font-size:14px;">Decided</text>
+            </g>
+        </g>
+        <path id="Path-4-Copy" d="M368,19.045L373.436,23.758L385.199,13" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;stroke-linecap:butt;"/>
+        <circle id="Oval-Copy-5" cx="376.5" cy="18.5" r="16.5" style="fill:white;stroke:rgb(0,130,66);stroke-width:3px;stroke-linecap:butt;"/>
+        <circle id="Oval-Copy-51" serif:id="Oval-Copy-5" cx="466.5" cy="18.5" r="16.5" style="fill:white;stroke:rgb(0,130,66);stroke-width:3px;stroke-linecap:butt;"/>
+        <circle id="Oval-Copy-11" cx="286.5" cy="18.5" r="16.5" style="fill:white;stroke:rgb(0,130,66);stroke-width:3px;stroke-linecap:butt;"/>
+        <circle id="Oval-Copy-21" serif:id="Oval-Copy-2" cx="16.5" cy="18.5" r="16.5" style="fill:rgb(0,130,66);"/>
+        <path id="Path-4-Copy1" serif:id="Path-4-Copy" d="M368,19.045L373.436,23.758L385.199,13" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;stroke-linecap:butt;"/>
+        <circle id="Oval-Copy-22" serif:id="Oval-Copy-2" cx="106.5" cy="19.5" r="16.5" style="fill:rgb(0,130,66);"/>
+        <path id="Path-4-Copy2" serif:id="Path-4-Copy" d="M99,20.045L104.436,24.758L116.199,14" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;stroke-linecap:butt;"/>
+        <circle id="Oval-Copy-23" serif:id="Oval-Copy-2" cx="196.5" cy="19.5" r="16.5" style="fill:rgb(0,130,66);"/>
+        <circle id="Oval-Copy-24" serif:id="Oval-Copy-2" cx="286.5" cy="19.5" r="16.5" style="fill:rgb(0,130,66);"/>
+        <path id="Path-4-Copy3" serif:id="Path-4-Copy" d="M189,20.045L194.436,24.758L206.199,14" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;stroke-linecap:butt;"/>
+        <path id="Path-4-Copy4" serif:id="Path-4-Copy" d="M8,20.045L13.436,24.758L25.199,14" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;stroke-linecap:butt;"/>
+    </g>
+</svg>
